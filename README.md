@@ -16,5 +16,6 @@ pip install pandas quandl numpy matplotlib\
 Replace <API KEY> with your Quandl API key in the code.
 Run the provided code to fetch stock data, calculate daily returns, and generate the 50-day moving average.
 
-##Contributing
+## Contributions
+
 Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or improvements through pull requests.
